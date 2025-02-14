@@ -1,0 +1,14 @@
+C:\Users\Abir\Documents\C#\TP1EX1\TP1EX1\bin\Debug\net8.0\TP1EX1.exe
+C:\Users\Abir\Documents\C#\TP1EX1\TP1EX1\bin\Debug\net8.0\TP1EX1.deps.json
+C:\Users\Abir\Documents\C#\TP1EX1\TP1EX1\bin\Debug\net8.0\TP1EX1.runtimeconfig.json
+C:\Users\Abir\Documents\C#\TP1EX1\TP1EX1\bin\Debug\net8.0\TP1EX1.dll
+C:\Users\Abir\Documents\C#\TP1EX1\TP1EX1\bin\Debug\net8.0\TP1EX1.pdb
+C:\Users\Abir\Documents\C#\TP1EX1\TP1EX1\obj\Debug\net8.0\TP1EX1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abir\Documents\C#\TP1EX1\TP1EX1\obj\Debug\net8.0\TP1EX1.AssemblyInfoInputs.cache
+C:\Users\Abir\Documents\C#\TP1EX1\TP1EX1\obj\Debug\net8.0\TP1EX1.AssemblyInfo.cs
+C:\Users\Abir\Documents\C#\TP1EX1\TP1EX1\obj\Debug\net8.0\TP1EX1.csproj.CoreCompileInputs.cache
+C:\Users\Abir\Documents\C#\TP1EX1\TP1EX1\obj\Debug\net8.0\TP1EX1.dll
+C:\Users\Abir\Documents\C#\TP1EX1\TP1EX1\obj\Debug\net8.0\refint\TP1EX1.dll
+C:\Users\Abir\Documents\C#\TP1EX1\TP1EX1\obj\Debug\net8.0\TP1EX1.pdb
+C:\Users\Abir\Documents\C#\TP1EX1\TP1EX1\obj\Debug\net8.0\TP1EX1.genruntimeconfig.cache
+C:\Users\Abir\Documents\C#\TP1EX1\TP1EX1\obj\Debug\net8.0\ref\TP1EX1.dll

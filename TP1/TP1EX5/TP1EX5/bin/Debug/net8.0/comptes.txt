@@ -1,0 +1,4 @@
+12;Aloui;Asmae;100
+123;Alaoui;Ahmed;0
+1;Alaoui;Ahmed;2400
+2;Alaoui;Saida;0
