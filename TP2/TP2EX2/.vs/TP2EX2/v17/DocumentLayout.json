@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abir\\Documents\\C#\\TPN1\\TP2\\TP2EX2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Abir\\Documents\\C#\\TPN1\\TP2\\TP2EX2\\TP2EX2\\Biblio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TP2EX2\\Biblio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Abir\\Documents\\C#\\TPN1\\TP2\\TP2EX2\\TP2EX2\\Document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TP2EX2\\Document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Abir\\Documents\\C#\\TPN1\\TP2\\TP2EX2\\TP2EX2\\Dictionnaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TP2EX2\\Dictionnaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Abir\\Documents\\C#\\TPN1\\TP2\\TP2EX2\\TP2EX2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TP2EX2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Abir\\Documents\\C#\\TPN1\\TP2\\TP2EX2\\TP2EX2\\Livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TP2EX2\\Livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dictionnaire.cs",
+              "DocumentMoniker": "C:\\Users\\Abir\\Documents\\C#\\TPN1\\TP2\\TP2EX2\\TP2EX2\\Dictionnaire.cs",
+              "RelativeDocumentMoniker": "TP2EX2\\Dictionnaire.cs",
+              "ToolTip": "C:\\Users\\Abir\\Documents\\C#\\TPN1\\TP2\\TP2EX2\\TP2EX2\\Dictionnaire.cs",
+              "RelativeToolTip": "TP2EX2\\Dictionnaire.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwB4AAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T21:03:26.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Biblio.cs",
+              "DocumentMoniker": "C:\\Users\\Abir\\Documents\\C#\\TPN1\\TP2\\TP2EX2\\TP2EX2\\Biblio.cs",
+              "RelativeDocumentMoniker": "TP2EX2\\Biblio.cs",
+              "ToolTip": "C:\\Users\\Abir\\Documents\\C#\\TPN1\\TP2\\TP2EX2\\TP2EX2\\Biblio.cs",
+              "RelativeToolTip": "TP2EX2\\Biblio.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAuwDkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:52:39.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Livre.cs",
+              "DocumentMoniker": "C:\\Users\\Abir\\Documents\\C#\\TPN1\\TP2\\TP2EX2\\TP2EX2\\Livre.cs",
+              "RelativeDocumentMoniker": "TP2EX2\\Livre.cs",
+              "ToolTip": "C:\\Users\\Abir\\Documents\\C#\\TPN1\\TP2\\TP2EX2\\TP2EX2\\Livre.cs",
+              "RelativeToolTip": "TP2EX2\\Livre.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:47:57.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Document.cs",
+              "DocumentMoniker": "C:\\Users\\Abir\\Documents\\C#\\TPN1\\TP2\\TP2EX2\\TP2EX2\\Document.cs",
+              "RelativeDocumentMoniker": "TP2EX2\\Document.cs",
+              "ToolTip": "C:\\Users\\Abir\\Documents\\C#\\TPN1\\TP2\\TP2EX2\\TP2EX2\\Document.cs",
+              "RelativeToolTip": "TP2EX2\\Document.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:43:26.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Abir\\Documents\\C#\\TPN1\\TP2\\TP2EX2\\TP2EX2\\Program.cs",
+              "RelativeDocumentMoniker": "TP2EX2\\Program.cs",
+              "ToolTip": "C:\\Users\\Abir\\Documents\\C#\\TPN1\\TP2\\TP2EX2\\TP2EX2\\Program.cs",
+              "RelativeToolTip": "TP2EX2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T19:51:01.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

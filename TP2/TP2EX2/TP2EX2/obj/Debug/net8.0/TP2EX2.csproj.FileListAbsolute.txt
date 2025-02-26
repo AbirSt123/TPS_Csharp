@@ -1,0 +1,15 @@
+C:\Users\Abir\Documents\C#\TPN1\TP2\TP2EX2\TP2EX2\obj\Debug\net8.0\TP2EX2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abir\Documents\C#\TPN1\TP2\TP2EX2\TP2EX2\obj\Debug\net8.0\TP2EX2.AssemblyInfoInputs.cache
+C:\Users\Abir\Documents\C#\TPN1\TP2\TP2EX2\TP2EX2\obj\Debug\net8.0\TP2EX2.AssemblyInfo.cs
+C:\Users\Abir\Documents\C#\TPN1\TP2\TP2EX2\TP2EX2\obj\Debug\net8.0\TP2EX2.csproj.CoreCompileInputs.cache
+C:\Users\Abir\Documents\C#\TPN1\TP2\TP2EX2\TP2EX2\obj\Debug\net8.0\TP2EX2.sourcelink.json
+C:\Users\Abir\Documents\C#\TPN1\TP2\TP2EX2\TP2EX2\bin\Debug\net8.0\TP2EX2.exe
+C:\Users\Abir\Documents\C#\TPN1\TP2\TP2EX2\TP2EX2\bin\Debug\net8.0\TP2EX2.deps.json
+C:\Users\Abir\Documents\C#\TPN1\TP2\TP2EX2\TP2EX2\bin\Debug\net8.0\TP2EX2.runtimeconfig.json
+C:\Users\Abir\Documents\C#\TPN1\TP2\TP2EX2\TP2EX2\bin\Debug\net8.0\TP2EX2.dll
+C:\Users\Abir\Documents\C#\TPN1\TP2\TP2EX2\TP2EX2\bin\Debug\net8.0\TP2EX2.pdb
+C:\Users\Abir\Documents\C#\TPN1\TP2\TP2EX2\TP2EX2\obj\Debug\net8.0\TP2EX2.dll
+C:\Users\Abir\Documents\C#\TPN1\TP2\TP2EX2\TP2EX2\obj\Debug\net8.0\refint\TP2EX2.dll
+C:\Users\Abir\Documents\C#\TPN1\TP2\TP2EX2\TP2EX2\obj\Debug\net8.0\TP2EX2.pdb
+C:\Users\Abir\Documents\C#\TPN1\TP2\TP2EX2\TP2EX2\obj\Debug\net8.0\TP2EX2.genruntimeconfig.cache
+C:\Users\Abir\Documents\C#\TPN1\TP2\TP2EX2\TP2EX2\obj\Debug\net8.0\ref\TP2EX2.dll
